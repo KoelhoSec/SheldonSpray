@@ -31,7 +31,7 @@ Sheldon -DrSpedYA99 Password123
 
 ### Notes and Credits
 
-Decide to create this repo just for fun since its pretty simple to obfuscate scripts with Pyfuscation. SheldonSpray did work in a real engagement to evade an EDR which was blocking the regular version of DomainPasswordSpray.
+Decided to create this repo just for fun since its pretty simple to obfuscate scripts with Pyfuscation. SheldonSpray did work in a real engagement to evade an EDR that was blocking the regular version of DomainPasswordSpray.
 
 Credits to [@dafthack](https://github.com/dafthack) for creating this awesome tool
 
