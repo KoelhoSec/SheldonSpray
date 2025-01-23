@@ -1,7 +1,9 @@
 # SheldonSpray
 This is a version of **DomainPasswordSpray** (https://github.com/dafthack/DomainPasswordSpray) which was obfuscated using **Pyfuscation** (https://github.com/CBHue/PyFuscation). 
 
-[![sheldon-spray.gif](https://i.postimg.cc/MKtbMxzK/sheldon-spray.gif)](https://postimg.cc/6y2Ggk7D)
+<p align="center">
+  <img src="https://github.com/KoelhoSec/SheldonSpray/blob/e87d1203f14b653abcbf226a8bc4ecd18b1cc683/sheldon-spray2.gif" alt="Sheldon Spray">
+</p>
 
 SheldonSpray is a tool written in PowerShell to perform a password spray attack against users of a domain. By default it will automatically generate the userlist from the domain. BE VERY CAREFUL NOT TO LOCKOUT ACCOUNTS!
 
@@ -31,7 +33,7 @@ Sheldon -DrSpedYA99 Password123
 
 ### Notes and Credits
 
-Decided to create this repo just for fun since its pretty simple to obfuscate scripts with Pyfuscation. SheldonSpray did work in a real engagement to evade an EDR that was blocking the regular version of DomainPasswordSpray.
+Decided to create this repo just for fun since its pretty simple to obfuscate scripts with Pyfuscation. SheldonSpray did actually worked in real engagements to evade an EDR that was blocking the regular version of DomainPasswordSpray.
 
 Credits to [@dafthack](https://github.com/dafthack) for creating this awesome tool
 
